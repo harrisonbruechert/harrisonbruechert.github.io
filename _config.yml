@@ -12,3 +12,5 @@ aux_links:
 #Color Scheme
 color_scheme: dark
 
+#MathJax for LaTeX
+math: mathjax
