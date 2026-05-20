@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
-nav_order: 1
+title: Research
+nav_order: 2
 permalink: /school/
 ---
-# Uni Notes
-Open-sourced notes material...
+# Research
+This is a
