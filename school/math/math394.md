@@ -1,4 +1,4 @@
-  ---
+---
 layout: default
 title: Math 394
 parent: Mathematics
