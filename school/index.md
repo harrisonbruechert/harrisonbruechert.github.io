@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Studies Home
+title: Univeristy of Washington
 nav_order: 1
 permalink: /school/
 ---
 
-# My University Studies
+# University of Washington
 Select a department from the sidebar to browse my notes.
