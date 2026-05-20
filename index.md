@@ -1,8 +1,7 @@
 ---
 title: About Me
-layout: home
+layout: About Me
 permalink: /
-nav_exclude: true
 ---
 
 # Harrison Bruechert
