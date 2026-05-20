@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Math 334
+title: MATH 334
 parent: Mathematics
 permalink: /school/math/math334/
 ---
