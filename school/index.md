@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Research
-nav_order: 2
+title: Studies Home
+nav_order: 1
 permalink: /school/
 ---
-# Research
-This is a
+
+# My University Studies
+Select a department from the sidebar to browse my notes.
