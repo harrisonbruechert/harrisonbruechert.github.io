@@ -8,3 +8,10 @@ baseurl: ""
 aux_links: 
   "About Me": "/"
   "Studies": "/school"
+
+# Navigation settings
+search_placeholder: "Search Studies"
+
+#Color Scheme
+color_scheme: dark
+
