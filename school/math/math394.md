@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Math 394
+title: MATH 394
 parent: Mathematics
 permalink: /school/math/math394/
 ---
 
-# Math 394
+# MATH 394
 
 Notes coming soon.
