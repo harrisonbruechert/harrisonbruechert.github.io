@@ -6,6 +6,3 @@ has_children: true
 ---
 
 # University of Washington
-Blah Blah
-
-Blah $m$
