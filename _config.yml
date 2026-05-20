@@ -1,7 +1,10 @@
-title: "Harrison Bruechert"
-description: "A Central Hub for ATH."
+title: "Studies"
+description: "A Central Hub for my Class Notes"
 theme: just-the-docs
 
 url: "https://harrisonbruechert.com"
 baseurl: ""
 
+aux_links: 
+  "Personal site": "/"
+  "Studies": "/school/"
