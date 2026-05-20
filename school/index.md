@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Univeristy of Washington
+title: University of Washington
 nav_order: 1
 permalink: /school/
 ---
