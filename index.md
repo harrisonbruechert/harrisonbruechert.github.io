@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: Default
+layout: default
 permalink: /
 nav_exclude: true
 ---
