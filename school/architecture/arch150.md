@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Arch 150
+title: ARCH 150
 parent: Architecture
 permalink: /school/architecture/arch150/
 ---
 
-# Arch 150
+# ARCH 150
 
 Notes coming soon.
