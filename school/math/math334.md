@@ -5,6 +5,6 @@ parent: Mathematics
 permalink: /school/math/math334/
 ---
 
-# Math 334
+# MATH 334
 
 Notes coming soon.
