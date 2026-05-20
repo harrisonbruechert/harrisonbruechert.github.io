@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Philosophy
-parent: Studies Home
+parent: University of Washington
 has_children: true
 permalink: /school/philosophy/
 ---
